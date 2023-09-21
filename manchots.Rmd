@@ -1,7 +1,7 @@
 ---
 title: "Etude sur les manchots"
-
-author: "MP Etienne et Lea's Team"
+author: "Léa"
+>>>>>>> 804d0497382be5ec51e612952c28e03374ee2dd0
 date: "21/09/2023"
 >>>>>>> d72efb5c0583b95021e987deb6d2bde0619ba324
 output: html_document 
